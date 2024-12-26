@@ -124,7 +124,7 @@
     <a href="https://leetcode.com/u/bekmurod_gofurov/">
         <img src="https://img.shields.io/badge/LeetCode-FE9C23?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
     </a>
-    <a href="mailto:azizbek.qodirov@example.com">
+    <a href="mailto:bekmurod.gofurov@example.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
 </p>
