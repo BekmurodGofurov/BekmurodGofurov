@@ -30,7 +30,7 @@
             <a href="https://www.mysql.com/">
                 <img src="https://img.shields.io/badge/mysql-fff?style=for-the-badge&logo=mysql&logoColor=0953ba" alt="PostgreSQL" />
             </a>
-            <a href="https://www.python.org/">
+            <a href="https://www.sqlite.org/">
                 <img src="https://img.shields.io/badge/SQLite-acb4bd?style=for-the-badge&logo=sqlite&logoColor=05407a" alt="Python" />
             </a>
             <a href="https://www.aiogram.dev/"></a>
@@ -61,25 +61,25 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=18&duration=3000&color=2C68F6&center=true&vCenter=true&width=240&height=60&lines=I+know+JavaScript.+☕;I+know+Python.+☕;I+know+C.+☕;I+know+MySQL.+☕;I+know+SQLite.+☕;I+know+Telegram+Bot.+☕;I+know+Vue.js+☕;I+know+React.+☕;I+know+Node.js.+☕;I+know+HTML5.+☕;I+know+CSS3.+☕"
             style="border-radius: 100px" alt="Typing SVG" />
     </div>
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3kwNXFqZDFjOGtnanhzNnByNHM1eWpjM3Q5ODF6eDNocnFsZmVsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MeJgB3yMMwIaHmKD4z/giphy.webp" width="100">
+    <!-- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3kwNXFqZDFjOGtnanhzNnByNHM1eWpjM3Q5ODF6eDNocnFsZmVsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MeJgB3yMMwIaHmKD4z/giphy.webp" width="100"> -->
 </div>
 
 <!-- Most used languages -->
 <div style="margin-top: 20px; text-align: center;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azizbek-Qodirov&layout=compact&theme=tokyonight&hide=html" alt="Top Langs over time">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekmurodGofurov&layout=compact&theme=tokyonight&hide=html" alt="Top Langs over time">
     </a>
 </div>
 
 <!-- GitHub Stats with custom styling -->
 <div style="width: 100%; display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Azizbek-Qodirov&show_icons=true&count_private=true&hide=prs&theme=tokyonight&border_color=2C68F6&icon_color=2C68F6&title_color=2C68F6" alt="Azizbek's GitHub Stats" width=51%>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azizbek-Qodirov&theme=tokyonight&border=2C68F6" alt="Azizbek's GitHub Streak" width=47%>
+    <img src="https://github-readme-stats.vercel.app/api?username=BekmurodGofurov&show_icons=true&count_private=true&hide=prs&theme=tokyonight&border_color=2C68F6&icon_color=2C68F6&title_color=2C68F6" alt="Bekmurod's GitHub Stats" width=51%>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BekmurodGofurov&theme=tokyonight&border=2C68F6" alt="Bekmurod's GitHub Streak" width=47%>
 </div>
 
 <!-- Coding Activity Graph -->
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azizbek-Qodirov&theme=tokyo-night&bg_color=20232a&hide_border=true" width="100%" alt="Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BekmurodGofurov&theme=tokyo-night&bg_color=20232a&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>
 
 <br>
@@ -87,23 +87,16 @@
 <!-- My Journey -->
 <h3 align="center">🛸 My Journey</h3>
 <p align="center">
-    🎓 Currently pursuing my degree in Computer Science at Najot Ta'lim, Tashkent<br>
-    💼 Freelance developer specializing in Golang and backend solutions<br>
-    🌱 Learning cloud technologies and DevOps practices<br>
-    🏆 Winner of several local coding competitions<br>
-    📚 Achieved IELTS 6.5 in 2024<br>
-    📚 Practicing Golang, microservices, Docker, and working on real projects.</a>
+    🎓 Currently pursuing my degree in Computer Science at Sharda University Uzbekiston, Tashkent<br>
+    💼 Freelance developer specializing in JavaScipt and Python<br>
+    🌱 Learning cloud technologies and DevOps practices<br>    
+    📚 Achieved CEFR B1 in 2023<br>
+    📚 Practicing JavaScipt, Python, Vue.js, and React on real projects.</a>
 </p>
 
 <!-- Current Focus -->
-<h3 align="center">🔭 Current Mission</h3>
-<p align="center">
-    Developing cutting-edge Golang applications that push the boundaries of performance and scalability.<br>
-    Exploring artificial intelligence and creating smarter, more intuitive systems.<br>
-    Looking for opportunities with local companies in backend development.
-</p>
 
-<!-- Projects Section -->
+<!-- Projects Section 
 <h3 align="center">🚀 Featured Projects</h3>
 <p align="center">
     <a href="https://github.com/Azizbek-Qodirov/url-tester/tree/main">🔍 URL Tester</a> - A tool for testing and analyzing URLs with detailed results and logs.
@@ -114,21 +107,21 @@
         <summary>⚡ Fun Fact</summary>
         <p>I have a girlfriend, and together we debug life's challenges! 💖👩‍💻👨‍💻</p>
     </details>
-</div>
+</div> -->
 
 <!-- Connect With Me section -->
 <h3 align="center">🌐 Join My Digital Universe</h3>
 <p align="center">
-    <a href="https://discord.com/users/azizbek_qodirov">
+    <a href="https://discord.com/users/bekmurod.gofurov">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
-    <a href="https://www.linkedin.com/in/azizbek-qodirov">
+    <a href="https://www.linkedin.com/in/bekmurod-gofurov">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://t.me/Azizbek_Qodirov">
+    <a href="https://t.me/B_G_dev">
         <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
-    <a href="https://leetcode.com/u/Azizbek_Qodirov/">
+    <a href="https://leetcode.com/u/bekmurod_gofurov/">
         <img src="https://img.shields.io/badge/LeetCode-FE9C23?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
     </a>
     <a href="mailto:azizbek.qodirov@example.com">
