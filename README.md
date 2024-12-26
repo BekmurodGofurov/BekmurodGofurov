@@ -133,5 +133,5 @@
 <!-- Closing Section -->
 <div align="center">
     <p>Thanks for visiting my profile! If you have any questions or want to collaborate, feel free to reach out. Let's build something amazing together! 🚀</p>
-    <img src="https://komarev.com/ghpvc/?username=Azizbek-Qodirov&color=2C68F6" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=BekmurodGofurov&color=2C68F6" alt="Profile views" />
 </div>
