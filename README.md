@@ -5,7 +5,7 @@
 
 ---
 
-## 👨‍💻 About Me: A Passionate Developer & Problem Solver
+## 👨‍💻 About Me: A Web Developer & Problem Solver
 
 <div align="center">
   <p style="width:80%">
