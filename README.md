@@ -70,9 +70,7 @@
 ### 📊 GitHub Stats
 
 <div style="margin-top: 20px; text-align: center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekmurodGofurov&layout=compact&theme=tokyonight&hide=html" alt="Top Langs over time">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekmurodGofurov&layout=compact&theme=tokyonight&hide=html" alt="Top Langs over time">
 </div>
 
 <div style="width: 100%; display: flex; justify-content: center; align-items: center;">
