@@ -9,7 +9,7 @@
 
 <div align="center">
   <p style="width:80%">
-    I'm an 18-year-old **JavaScript** and **Python** developer from Andijan, Uzbekistan, currently honing my skills at **Sharda University Uzbekistan** in Andijan. My passion lies in **full-stack development** with a strong focus on **MySQL**. I've been actively sharpening my expertise through real-world projects and hands-on experience. Beyond web development, I'm deeply interested in **Artificial Intelligence** and specializing in **Python** for creating intelligent **Telegram bots**. I genuinely enjoy tackling challenging problems, and I find great satisfaction in the process of debugging and refining code to perfection.
+    I'm an 19-year-old **JavaScript** and **Python** developer from Andijan, Uzbekistan, currently honing my skills at **Sharda University Uzbekistan** in Andijan. My passion lies in **full-stack development** with a strong focus on **MySQL**. I've been actively sharpening my expertise through real-world projects and hands-on experience. Beyond web development, I'm deeply interested in **Artificial Intelligence** and specializing in **Python** for creating intelligent **Telegram bots**. I genuinely enjoy tackling challenging problems, and I find great satisfaction in the process of debugging and refining code to perfection.
   </p>
 </div>
 
