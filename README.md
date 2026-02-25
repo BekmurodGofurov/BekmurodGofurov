@@ -121,7 +121,4 @@
 <div align="center">
   <p>Thanks for visiting my profile! Feel free to reach out if you have any questions, want to collaborate, or just want to connect. Let's build something amazing together! 🚀</p>
   <img src="https://komarev.com/ghpvc/?username=BekmurodGofurov&color=2C68F6" alt="Profile views" />
-  <a href="https://wakatime.com/@c036c41a-95c9-4907-84df-9b761a8bd439">
-    <img src="https://wakatime.com/badge/user/c036c41a-95c9-4907-84df-9b761a8bd439.svg" alt="Total time coded since Mar 16 2023" />
-  </a>
 </div>
